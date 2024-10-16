@@ -1,4 +1,6 @@
-import TableComponent from '../src/components/TableComponent';
+'use client';
+
+import TableComponent from '../../src/components/TableComponent';
 
 export default function Home() {
   return (

@@ -1,12 +1,9 @@
-import React from 'react';
-
 import React, { useMemo, useState } from 'react';
 import MaterialReactTable from 'material-react-table';
 import { Slider } from '@mui/material';
-import { matchSorter } from 'match-sorter';
 
 const sampleData = [
-  // Your sample data goes here
+  
 ];
 
 const TableComponent = () => {
