@@ -1,5 +1,10 @@
 import React, { useMemo, useState } from 'react';
-import MaterialReactTable from 'material-react-table';
+// import MaterialReactTable from 'material-react-table';
+import {
+  MaterialReactTable,
+  useMaterialReactTable,
+
+} from 'material-react-table';
 import { Slider } from '@mui/material';
 
 const sampleData = [
